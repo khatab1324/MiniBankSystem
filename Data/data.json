@@ -1,0 +1,52 @@
+[
+  {
+    "AccountId": 0,
+    "Amount": 0,
+    "TypeAccount": 0,
+    "Transactions": [
+      {
+        "TransactionId": 0,
+        "Amount": 1000,
+        "TransactionType": 0,
+        "DateTime": "2025-11-02T16:24:11.1504508+03:00"
+      }
+    ]
+  },
+  {
+    "AccountId": 1,
+    "Amount": 0,
+    "TypeAccount": 0,
+    "Transactions": []
+  },
+  {
+    "AccountId": 2,
+    "Amount": 600,
+    "TypeAccount": 0,
+    "Transactions": [
+      {
+        "TransactionId": 0,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-02T21:56:41.7373555+03:00"
+      },
+      {
+        "TransactionId": 1,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-02T21:56:48.585194+03:00"
+      },
+      {
+        "TransactionId": 2,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-02T21:56:59.0259822+03:00"
+      }
+    ]
+  },
+  {
+    "AccountId": 3,
+    "Amount": 0,
+    "TypeAccount": 0,
+    "Transactions": []
+  }
+]

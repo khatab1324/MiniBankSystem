@@ -1,0 +1,14 @@
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.AssemblyInfoInputs.cache
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.AssemblyInfo.cs
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.csproj.CoreCompileInputs.cache
+/home/khatab/coding/projects/miniProjects/BankSystem/bin/Debug/net8.0/BankSystem
+/home/khatab/coding/projects/miniProjects/BankSystem/bin/Debug/net8.0/BankSystem.deps.json
+/home/khatab/coding/projects/miniProjects/BankSystem/bin/Debug/net8.0/BankSystem.runtimeconfig.json
+/home/khatab/coding/projects/miniProjects/BankSystem/bin/Debug/net8.0/BankSystem.dll
+/home/khatab/coding/projects/miniProjects/BankSystem/bin/Debug/net8.0/BankSystem.pdb
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.dll
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/refint/BankSystem.dll
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.pdb
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.genruntimeconfig.cache
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/ref/BankSystem.dll
