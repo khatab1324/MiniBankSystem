@@ -14,10 +14,11 @@ public class Transaction
 
     public Transaction(int accountId, double amount, TransactionType transactionType)
     {
-        this.TransactionId = TransactionRepo.CreateTransatcion(accountId, new TransactionDto() { Amount = amount, TransactionType = TransactionType.Deposit }).TransactionId;
+        this.TransactionId = TransactionRepo.CreateTransatcion(accountId, new TransactionDto() { Amount = amount, TransactionType = transactionType }).TransactionId;
         this.Amount = amount;
         this.TransactionType = transactionType;
     }
+
 
 
 

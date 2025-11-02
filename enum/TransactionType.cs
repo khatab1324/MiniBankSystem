@@ -2,5 +2,5 @@ namespace BankSystem.Enum;
 
 public enum TransactionType
 {
-    Deposit, Withdrawal
+    Deposit, Withdrawal, TrasferIn, TransferOut
 }

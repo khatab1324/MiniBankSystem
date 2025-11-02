@@ -1,7 +1,7 @@
 [
   {
     "AccountId": 0,
-    "Amount": 0,
+    "Amount": 600,
     "TypeAccount": 0,
     "Transactions": [
       {
@@ -9,6 +9,48 @@
         "Amount": 1000,
         "TransactionType": 0,
         "DateTime": "2025-11-02T16:24:11.1504508+03:00"
+      },
+      {
+        "TransactionId": 1,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:23:34.4157946+03:00"
+      },
+      {
+        "TransactionId": 2,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:23:44.0478258+03:00"
+      },
+      {
+        "TransactionId": 3,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:28:01.5965675+03:00"
+      },
+      {
+        "TransactionId": 4,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:28:06.8514005+03:00"
+      },
+      {
+        "TransactionId": 5,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:28:35.4525737+03:00"
+      },
+      {
+        "TransactionId": 6,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:28:57.3284317+03:00"
+      },
+      {
+        "TransactionId": 7,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:29:00.4485278+03:00"
       }
     ]
   },
@@ -16,11 +58,24 @@
     "AccountId": 1,
     "Amount": 0,
     "TypeAccount": 0,
-    "Transactions": []
+    "Transactions": [
+      {
+        "TransactionId": 0,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:19:20.5472558+03:00"
+      },
+      {
+        "TransactionId": 1,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:19:20.5558118+03:00"
+      }
+    ]
   },
   {
     "AccountId": 2,
-    "Amount": 600,
+    "Amount": 1600,
     "TypeAccount": 0,
     "Transactions": [
       {
@@ -40,6 +95,156 @@
         "Amount": 200,
         "TransactionType": 0,
         "DateTime": "2025-11-02T21:56:59.0259822+03:00"
+      },
+      {
+        "TransactionId": 3,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:43:27.332528+03:00"
+      },
+      {
+        "TransactionId": 4,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:43:27.406737+03:00"
+      },
+      {
+        "TransactionId": 5,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:43:27.4070368+03:00"
+      },
+      {
+        "TransactionId": 6,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:43:50.2478151+03:00"
+      },
+      {
+        "TransactionId": 7,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:43:50.3080268+03:00"
+      },
+      {
+        "TransactionId": 8,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:43:50.3130764+03:00"
+      },
+      {
+        "TransactionId": 9,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:44:56.2520545+03:00"
+      },
+      {
+        "TransactionId": 10,
+        "Amount": 200,
+        "TransactionType": 1,
+        "DateTime": "2025-11-03T01:44:56.3120066+03:00"
+      },
+      {
+        "TransactionId": 11,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:44:56.3170569+03:00"
+      },
+      {
+        "TransactionId": 12,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:45:07.1489091+03:00"
+      },
+      {
+        "TransactionId": 13,
+        "Amount": 200,
+        "TransactionType": 1,
+        "DateTime": "2025-11-03T01:45:07.2292424+03:00"
+      },
+      {
+        "TransactionId": 14,
+        "Amount": 200,
+        "TransactionType": 0,
+        "DateTime": "2025-11-03T01:45:07.2342044+03:00"
+      },
+      {
+        "TransactionId": 15,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:20:09.8327776+03:00"
+      },
+      {
+        "TransactionId": 16,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:20:09.8411624+03:00"
+      },
+      {
+        "TransactionId": 17,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:21:54.6941968+03:00"
+      },
+      {
+        "TransactionId": 18,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:21:54.7033922+03:00"
+      },
+      {
+        "TransactionId": 19,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:22:03.0938144+03:00"
+      },
+      {
+        "TransactionId": 20,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:22:03.1021359+03:00"
+      },
+      {
+        "TransactionId": 21,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:23:34.4245605+03:00"
+      },
+      {
+        "TransactionId": 22,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:23:44.0570713+03:00"
+      },
+      {
+        "TransactionId": 23,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:28:01.6116079+03:00"
+      },
+      {
+        "TransactionId": 24,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:28:06.8638369+03:00"
+      },
+      {
+        "TransactionId": 25,
+        "Amount": 200,
+        "TransactionType": 3,
+        "DateTime": "2025-11-03T02:28:35.4614477+03:00"
+      },
+      {
+        "TransactionId": 26,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:28:57.3377504+03:00"
+      },
+      {
+        "TransactionId": 27,
+        "Amount": 200,
+        "TransactionType": 2,
+        "DateTime": "2025-11-03T02:29:00.4569123+03:00"
       }
     ]
   },

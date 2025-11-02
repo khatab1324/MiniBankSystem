@@ -12,3 +12,4 @@
 /home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.pdb
 /home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.genruntimeconfig.cache
 /home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/ref/BankSystem.dll
+/home/khatab/coding/projects/miniProjects/BankSystem/obj/Debug/net8.0/BankSystem.sourcelink.json

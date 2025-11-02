@@ -26,4 +26,8 @@ public class Account
     {
         return AccountRepo.GetAccount(AccountId);
     }
+    public void SendMoney(int ResiverAccountId, double Amount)
+    {
+        TransactionRepo.TransferToAnotherAccount(this.AccountId, ResiverAccountId, Amount);
+    }
 }
